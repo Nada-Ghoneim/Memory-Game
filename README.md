@@ -39,6 +39,6 @@ This is a simple memory card matching game built with HTML, CSS, and JavaScript.
 - **Match Detection**: Compares the data IDs of flipped cards. Matched pairs are styled with a green border.
 - **Reset Game**: Clears all matches and reshuffles cards.
 
-## Screenshots
+## Screenshot :
 ![image](https://github.com/user-attachments/assets/836304dc-cc7e-4f8e-928d-d03b4a9b1304)
 
